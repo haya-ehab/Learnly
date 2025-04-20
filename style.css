@@ -717,6 +717,21 @@ h3{
 }
 
 @media (max-width: 768px) {
+    .reviews .review-card{
+flex-direction: column;
+        text-align: center;
+        align-items: center;
+        
+    }
+.reviews .review-card p {
+        text-align: center; 
+}
+
+.reviews .user-info {
+        align-items: center; 
+    }
+}
+    
     #menu-btn {
         display: block;
     }
