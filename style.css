@@ -155,9 +155,15 @@ img {
 
 /* Home Section */
 .home {
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 2rem;
+    padding: 5rem 2rem;
+    min-height: 100vh;
+    background: var(--dark-bg);
     margin-top: 6rem;
     display: flex;
-    align-items: center;
     min-height: 70vh;
     
 }
@@ -189,10 +195,16 @@ img {
 .home .row .image {
     flex: 1 1 40rem;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center
 }
 
 .home .row .image img {
-    max-width: 100%;
+    width: 100%;
+    max-width: 450px;
+    height: auto;
+    
 }
 
 /* Count Section */
