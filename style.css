@@ -155,25 +155,24 @@ img {
 
 /* Home Section */
 .home {
+   display: flex;
     align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 2rem;
+    justify-content: center;
     padding: 5rem 2rem;
-    min-height: 100vh;
     background: var(--dark-bg);
-    margin-top: 6rem;
-    display: flex;
-    min-height: 70vh;
+    min-height: 100vh;
+    margin-top: 0;
     
 }
 
 .home .row {
-    display: flex;
+   isplay: flex;
     align-items: center;
     flex-wrap: wrap;
     gap: 2rem;
     justify-content: space-between;
+    max-width: 1200px;
+    margin: auto;
 }
 
 .home .row .content {
@@ -729,6 +728,24 @@ h3{
 }
 
 @media (max-width: 768px) {
+
+.home .row{
+flex-direction: column;
+    text-align: center;
+}
+
+    .home .row content{
+text-align: center;
+    }
+
+
+     .home .row .image img {
+    max-width: 300px;
+  }
+}
+
+
+}
     .reviews .review-card{
 flex-direction: column;
         text-align: center;
