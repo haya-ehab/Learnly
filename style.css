@@ -729,23 +729,7 @@ h3{
 
 @media (max-width: 768px) {
 
-.home .row{
-flex-direction: column;
-    text-align: center;
-}
 
-    .home .row content{
-text-align: center;
-    }
-
-
-     .home .row .image img {
-    max-width: 300px;
-  }
-}
-
-
-}
     .reviews .review-card{
 flex-direction: column;
         text-align: center;
@@ -759,6 +743,21 @@ flex-direction: column;
 .reviews .user-info {
         align-items: center; 
     }
+
+
+    .home .row{
+flex-direction: column;
+    text-align: center;
+}
+
+    .home .row content{
+text-align: center;
+    }
+
+
+     .home .row .image img {
+    max-width: 300px;
+  }
 }
     
     #menu-btn {
