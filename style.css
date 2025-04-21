@@ -184,7 +184,8 @@ img {
     font-size: 6rem;
     color: var(--white);
     line-height: 1.2;
-    margin-bottom: 2rem;
+    margin-bottom: 6rem;
+    
 }
 
 .home .row .content h3 span {
