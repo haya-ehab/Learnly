@@ -744,20 +744,6 @@ flex-direction: column;
         align-items: center; 
     }
 
-
-    .home .row{
-flex-direction: column;
-    text-align: center;
-}
-
-    .home .row content{
-text-align: center;
-    }
-
-
-     .home .row .image img {
-    max-width: 300px;
-  }
 }
     
     #menu-btn {
