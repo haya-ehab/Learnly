@@ -1,6 +1,6 @@
 # Learnly
 
-# 🎓 Learnly – Online Education Platform (Frontend Only)
+# 🎓 Learnly – Online Education Platform 
 
 Welcome to **Learnly**, a responsive and interactive front-end website designed for online learning platforms. This project is built using **HTML**, **CSS**, and **JavaScript**, and it showcases the design and functionality of a modern educational platform.
 
