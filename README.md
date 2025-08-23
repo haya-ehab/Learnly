@@ -56,7 +56,7 @@ Add user authentication and personalized dashboards.
 
 Incorporate real-time chat support for student inquiries.
 
-Integrate payment gateways for course enrollments.
+
 
 🤝 Contributing
 Contributions are welcome! If you'd like to improve Learnly, please fork the repository and submit a pull request.
