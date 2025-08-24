@@ -8,7 +8,7 @@ Welcome to **Learnly**, a responsive and interactive front-end website designed 
 
 ## ✨ Features
 
-- 🏫 **Home Page**: Engaging introduction with key statistics.
+- 🏫 **Home Page**: Engaging introduction with key statistics
 - 📚 **Courses Section**: Detailed descriptions of various courses including Data Analysis, Web Development, Digital Marketing, Engineering, Science and Biology, Languages, Mental Health, Business, and Teaching.
 - 👩‍🏫 **Expert Tutors**: Profiles of experienced instructors with their specializations.
 - 💬 **Student Reviews**: Testimonials from students highlighting their learning experiences.
